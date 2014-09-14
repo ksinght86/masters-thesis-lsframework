@@ -1,0 +1,8 @@
+Mechanism KNP9 with 10000 players and 1000 subsets.
+Optimal social welfare: 13814.29519.
+Expected social welfare: 6907.14759.
+
+Gurobi LP dual solution (#2):
+P  4529 [k=2 v=1] gets x(  476)=1.00000
+P  8267 [k=2 v=1] gets x(  803)=0.65255
+Objective value / Optimal social welfare: 13814.295186

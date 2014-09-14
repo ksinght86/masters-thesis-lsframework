@@ -1,0 +1,36 @@
+Analysis results no. 26
+
+Ellipsoid method stopped in iteration 8 because decomposition is feasible.
+Ellipsoid parameters: cut=central; eps=0.000000; N=1000; R=2.645751.
+Ellipsoid performance: runtime=0.261950 sec.; constraint-cuts=5.
+
+First iteration in which primal was feasible: 8.
+In total 4 integer solutions where found, whereas 4 where used by primal.
+
+Solution quality:
+Expected social welfare=6908.340122
+Absolute deviation=4027.374934
+Variance=18811227.628516
+Standard deviation=4337.191214
+Coefficient of variation=0.627820
+
+Distribution of constraint cuts:
+cons_cuts=[2, 3, 5, 6, 8];
+Distribution of found integer solutions:
+int_sols=[2, 3, 6, 8];
+Distribution of found duplicates:
+int_dupl=[5];
+
+Decomposition solution:
+Meaning of solution vector: [P    30 [k=1 v=0] gets set {13}, P    50 [k=1 v=0] gets set {30}, P   480 [k=1 v=0] gets set {3}, P   680 [k=3 v=1] gets set {246}, P   680 [k=3 v=1] gets set {818}, P   688 [k=3 v=1] gets set {250}]
+Probabilities and corresponding integer solution:
+lambda_0 = 0.400350 and welfare = 11938.162091 and x_l = [1, 1, 1, 0, 1, 0]
+lambda_1 = 0.099650 and welfare = 6844.255414 and x_l = [0, 0, 0, 1, 0, 1]
+lambda_2 = 0.400350 and welfare = 3451.001619 and x_l = [0, 0, 0, 0, 0, 1]
+lambda_3 = 0.099650 and welfare = 654.903537 and x_l = [1, 1, 1, 0, 0, 0]
+lambda_else = 0
+Using 4 out of 4 integer solutions.
+Expected social welfare: 6908.340122
+Objective value of primal LP: 1.000000
+
+

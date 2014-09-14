@@ -1,0 +1,38 @@
+Mechanism KNP4 with 1000 players and 1000 subsets.
+Optimal social welfare: 13466.60338.
+Expected social welfare: 6733.30169.
+
+Gurobi LP dual solution (#32):
+P    35 [k=2 v=0] gets x(   12)=1.00000
+P    57 [k=2 v=0] gets x(   33)=1.00000
+P    67 [k=2 v=0] gets x(  110)=1.00000
+P    99 [k=2 v=0] gets x(    6)=1.00000
+P   104 [k=2 v=0] gets x(    5)=1.00000
+P   144 [k=2 v=0] gets x(   33)=1.00000
+P   162 [k=2 v=0] gets x(   33)=1.00000
+P   259 [k=2 v=0] gets x(   43)=1.00000
+P   286 [k=2 v=0] gets x(   31)=1.00000
+P   351 [k=2 v=0] gets x(   14)=1.00000
+P   366 [k=2 v=0] gets x(    2)=1.00000
+P   386 [k=2 v=0] gets x(   10)=1.00000
+P   390 [k=2 v=0] gets x(   33)=1.00000
+P   419 [k=2 v=0] gets x(   32)=1.00000
+P   431 [k=2 v=0] gets x(   47)=1.00000
+P   507 [k=2 v=0] gets x(   33)=1.00000
+P   555 [k=2 v=0] gets x(   46)=1.00000
+P   557 [k=2 v=0] gets x(   24)=1.00000
+P   558 [k=2 v=0] gets x(   24)=0.12500
+P   563 [k=2 v=0] gets x(   26)=1.00000
+P   578 [k=2 v=0] gets x(    2)=1.00000
+P   586 [k=2 v=0] gets x(   85)=1.00000
+P   669 [k=2 v=0] gets x(   48)=1.00000
+P   691 [k=2 v=0] gets x(   15)=1.00000
+P   701 [k=2 v=0] gets x(   59)=1.00000
+P   707 [k=2 v=0] gets x(   12)=1.00000
+P   738 [k=2 v=0] gets x(   48)=1.00000
+P   785 [k=2 v=0] gets x(    5)=1.00000
+P   823 [k=2 v=0] gets x(   13)=1.00000
+P   831 [k=2 v=0] gets x(  127)=1.00000
+P   914 [k=2 v=0] gets x(    9)=1.00000
+P   919 [k=2 v=0] gets x(    1)=1.00000
+Objective value / Optimal social welfare: 13466.603376

@@ -1,0 +1,35 @@
+Analysis results no. 19
+
+Ellipsoid method stopped in iteration 100 because reached N.
+Ellipsoid parameters: cut=central; eps=0.000000; N=100; R=1.732051.
+Ellipsoid performance: runtime=0.238440 sec.; constraint-cuts=75.
+
+First iteration in which primal was feasible: 14.
+In total 3 integer solutions where found, whereas 3 where used by primal.
+
+Solution quality:
+Expected social welfare=6907.147593
+Absolute deviation=2731.396795
+Variance=14059493.949744
+Standard deviation=3749.599172
+Coefficient of variation=0.542858
+
+Distribution of constraint cuts:
+cons_cuts=[1, 2, 3, 5, 7, 9, 10, 11, 13, 14, 16, 17, 18, 19, 21, 22, 24, 25, 26, 28, 29, 30, 31, 33, 34, 36, 37, 38, 39, 41, 42, 43, 45, 46, 47, 49, 50, 51, 53, 54, 55, 57, 58, 59, 61, 62, 63, 65, 66, 67, 68, 70, 71, 73, 74, 75, 76, 78, 79, 80, 82, 83, 84, 86, 87, 88, 90, 91, 92, 94, 95, 96, 98, 99, 100];
+Distribution of found integer solutions:
+int_sols=[1, 2, 14];
+Distribution of found duplicates:
+int_dupl=[3, 7, 10, 13, 17, 19, 25, 29, 31, 37, 41, 43, 49, 51, 57, 58, 65, 66, 70, 76, 78, 82, 88, 90, 95, 98, 5, 9, 11, 16, 21, 24, 28, 33, 36, 39, 45, 47, 53, 55, 61, 62, 68, 73, 74, 79, 84, 86, 92, 94, 100, 18, 22, 26, 30, 34, 38, 42, 46, 50, 54, 59, 63, 67, 71, 75, 80, 83, 87, 91, 96, 99];
+
+Decomposition solution:
+Meaning of solution vector: [P  4529 [k=2 v=1] gets set {476}, P  8267 [k=2 v=1] gets set {803}]
+Probabilities and corresponding integer solution:
+lambda_0 = 0.500000 and welfare = 6575.619016 and x_l = [1, 0]
+lambda_1 = 0.326276 and welfare = 11092.856803 and x_l = [0, 1]
+lambda_2 = 0.173724 and welfare = 0.000000 and x_l = [0, 0]
+lambda_else = 0
+Using 3 out of 3 integer solutions.
+Expected social welfare: 6907.147593
+Objective value of primal LP: 1.000000
+
+

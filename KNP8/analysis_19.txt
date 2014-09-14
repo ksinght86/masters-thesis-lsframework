@@ -1,0 +1,36 @@
+Analysis results no. 19
+
+Ellipsoid method stopped in iteration 100 because reached N.
+Ellipsoid parameters: cut=central; eps=0.000000; N=100; R=2.645751.
+Ellipsoid performance: runtime=0.655728 sec.; constraint-cuts=79.
+
+First iteration in which primal was feasible: 44.
+In total 10 integer solutions where found, whereas 4 where used by primal.
+
+Solution quality:
+Expected social welfare=6908.340122
+Absolute deviation=4145.125539
+Variance=19704558.549143
+Standard deviation=4438.981702
+Coefficient of variation=0.642554
+
+Distribution of constraint cuts:
+cons_cuts=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 17, 18, 20, 21, 23, 24, 25, 27, 28, 29, 31, 32, 34, 35, 36, 37, 39, 40, 41, 42, 44, 45, 46, 47, 49, 50, 51, 52, 54, 55, 56, 58, 59, 60, 61, 63, 64, 65, 67, 68, 69, 70, 72, 73, 74, 75, 77, 78, 79, 80, 81, 82, 84, 85, 86, 87, 88, 90, 91, 92, 93, 95, 96, 97, 98, 99];
+Distribution of found integer solutions:
+int_sols=[1, 2, 14, 23, 36, 44, 60, 70, 74, 84];
+Distribution of found duplicates:
+int_dupl=[3, 5, 7, 9, 12, 21, 28, 32, 37, 69, 77, 93, 98, 4, 6, 8, 10, 15, 18, 24, 27, 31, 45, 52, 56, 61, 64, 68, 73, 82, 92, 99, 17, 20, 25, 29, 34, 46, 51, 58, 59, 63, 67, 72, 81, 91, 97, 35, 39, 41, 50, 75, 79, 87, 95, 40, 42, 47, 54, 78, 85, 88, 49, 55, 86, 65, 90, 80, 96];
+
+Decomposition solution:
+Meaning of solution vector: [P    30 [k=1 v=0] gets set {13}, P    50 [k=1 v=0] gets set {30}, P   480 [k=1 v=0] gets set {3}, P   680 [k=3 v=1] gets set {246}, P   680 [k=3 v=1] gets set {818}, P   688 [k=3 v=1] gets set {250}]
+Probabilities and corresponding integer solution:
+lambda_0 = 0.099650 and welfare = 7499.158950 and x_l = [1, 1, 1, 1, 0, 1]
+lambda_1 = 0.400350 and welfare = 11938.162091 and x_l = [1, 1, 1, 0, 1, 0]
+lambda_2 = 0.400350 and welfare = 3451.001619 and x_l = [0, 0, 0, 0, 0, 1]
+lambda_7 = 0.099650 and welfare = 0.000000 and x_l = [0, 0, 0, 0, 0, 0]
+lambda_else = 0
+Using 4 out of 10 integer solutions.
+Expected social welfare: 6908.340122
+Objective value of primal LP: 1.000000
+
+

@@ -1,0 +1,36 @@
+Analysis results no. 16
+
+Ellipsoid method stopped in iteration 100 because reached N.
+Ellipsoid parameters: cut=central; eps=0.000000; N=100; R=4.472136.
+Ellipsoid performance: runtime=4.788922 sec.; constraint-cuts=65.
+
+First iteration in which primal was feasible: 51.
+In total 7 integer solutions where found, whereas 4 where used by primal.
+
+Solution quality:
+Expected social welfare=6564.435172
+Absolute deviation=4027.854464
+Variance=18766388.431549
+Standard deviation=4332.018979
+Coefficient of variation=0.659923
+
+Distribution of constraint cuts:
+cons_cuts=[4, 5, 7, 9, 11, 13, 15, 17, 19, 21, 22, 24, 25, 27, 29, 31, 32, 34, 35, 37, 38, 40, 42, 43, 45, 46, 48, 49, 51, 52, 54, 55, 57, 59, 60, 61, 63, 64, 66, 67, 68, 70, 71, 72, 74, 75, 77, 78, 79, 81, 82, 83, 85, 86, 87, 88, 90, 91, 92, 94, 95, 96, 97, 98, 100];
+Distribution of found integer solutions:
+int_sols=[4, 21, 51, 67, 68, 77, 78];
+Distribution of found duplicates:
+int_dupl=[5, 7, 9, 11, 13, 15, 17, 19, 22, 25, 27, 31, 34, 35, 38, 42, 43, 46, 49, 54, 55, 60, 63, 66, 71, 74, 79, 83, 91, 98, 24, 29, 32, 37, 40, 45, 48, 52, 57, 61, 72, 75, 82, 92, 100, 59, 64, 70, 81, 90, 88, 85, 95, 86, 94, 97, 87, 96];
+
+Decomposition solution:
+Meaning of solution vector: [P   113 [k=1 v=0] gets set {12}, P   120 [k=1 v=0] gets set {51}, P   146 [k=1 v=0] gets set {10}, P   225 [k=1 v=0] gets set {24}, P   229 [k=1 v=0] gets set {38}, P   347 [k=1 v=0] gets set {34}, P   384 [k=1 v=0] gets set {85}, P   464 [k=1 v=0] gets set {97}, P   478 [k=1 v=0] gets set {2}, P   639 [k=1 v=0] gets set {34}, P   684 [k=1 v=0] gets set {57}, P   696 [k=1 v=0] gets set {60}, P   699 [k=1 v=0] gets set {82}, P   755 [k=1 v=0] gets set {19}, P   760 [k=1 v=0] gets set {59}, P   816 [k=1 v=0] gets set {78}, P   901 [k=1 v=0] gets set {94}, P   922 [k=1 v=0] gets set {61}, P   989 [k=1 v=0] gets set {169}]
+Probabilities and corresponding integer solution:
+lambda_0 = 0.195266 and welfare = 11817.974844 and x_l = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+lambda_2 = 0.195266 and welfare = 0.000000 and x_l = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+lambda_4 = 0.304734 and welfare = 4161.962520 and x_l = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1]
+lambda_5 = 0.304734 and welfare = 9806.899115 and x_l = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+lambda_else = 0
+Using 4 out of 7 integer solutions.
+Expected social welfare: 6564.435172
+Objective value of primal LP: 1.000000
+
+

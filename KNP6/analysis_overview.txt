@@ -1,0 +1,51 @@
+Mechanism KNP6 with 1000 players and 1000 subsets.
+Optimal social welfare: 13947.33146.
+Expected social welfare: 6973.66573.
+
+Gurobi LP dual solution (#45):
+P     8 [k=4 v=0] gets x(    5)=1.00000
+P    46 [k=4 v=0] gets x(   20)=1.00000
+P    93 [k=4 v=0] gets x(   12)=1.00000
+P   103 [k=4 v=0] gets x(   27)=1.00000
+P   113 [k=4 v=0] gets x(   29)=1.00000
+P   191 [k=4 v=0] gets x(    2)=1.00000
+P   200 [k=4 v=0] gets x(   35)=1.00000
+P   252 [k=4 v=0] gets x(    2)=1.00000
+P   271 [k=4 v=0] gets x(   61)=1.00000
+P   297 [k=4 v=0] gets x(    9)=1.00000
+P   321 [k=4 v=0] gets x(   33)=1.00000
+P   373 [k=4 v=0] gets x(   29)=1.00000
+P   404 [k=4 v=0] gets x(   15)=1.00000
+P   460 [k=4 v=0] gets x(    1)=1.00000
+P   467 [k=4 v=0] gets x(   62)=1.00000
+P   471 [k=4 v=0] gets x(   48)=1.00000
+P   475 [k=4 v=0] gets x(   14)=1.00000
+P   477 [k=4 v=0] gets x(   11)=1.00000
+P   487 [k=4 v=0] gets x(   48)=1.00000
+P   488 [k=4 v=0] gets x(   23)=1.00000
+P   491 [k=4 v=0] gets x(   33)=1.00000
+P   492 [k=4 v=0] gets x(    4)=1.00000
+P   505 [k=4 v=0] gets x(   80)=0.22500
+P   517 [k=4 v=0] gets x(   24)=1.00000
+P   527 [k=4 v=0] gets x(    9)=1.00000
+P   536 [k=4 v=0] gets x(   41)=1.00000
+P   546 [k=4 v=0] gets x(    8)=1.00000
+P   558 [k=4 v=0] gets x(   14)=1.00000
+P   594 [k=4 v=0] gets x(   45)=1.00000
+P   624 [k=4 v=0] gets x(    7)=1.00000
+P   637 [k=4 v=0] gets x(    3)=1.00000
+P   650 [k=4 v=0] gets x(    1)=1.00000
+P   671 [k=4 v=0] gets x(   13)=1.00000
+P   701 [k=4 v=0] gets x(    2)=1.00000
+P   716 [k=4 v=0] gets x(    1)=1.00000
+P   746 [k=4 v=0] gets x(   59)=1.00000
+P   748 [k=4 v=0] gets x(    2)=1.00000
+P   792 [k=4 v=0] gets x(   37)=1.00000
+P   800 [k=4 v=0] gets x(   12)=1.00000
+P   823 [k=4 v=0] gets x(   17)=1.00000
+P   826 [k=4 v=0] gets x(   42)=1.00000
+P   828 [k=4 v=0] gets x(   33)=1.00000
+P   914 [k=4 v=0] gets x(   17)=1.00000
+P   921 [k=4 v=0] gets x(   55)=1.00000
+P   937 [k=4 v=0] gets x(   17)=1.00000
+Objective value / Optimal social welfare: 13947.331459

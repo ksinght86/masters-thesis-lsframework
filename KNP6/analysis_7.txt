@@ -1,0 +1,35 @@
+Analysis results no. 7
+
+Ellipsoid method stopped in iteration 19 because decomposition is feasible.
+Ellipsoid parameters: cut=deep; eps=0.000000; N=1000; R=6.782330.
+Ellipsoid performance: runtime=4.635749 sec.; constraint-cuts=10.
+
+First iteration in which primal was feasible: 19.
+In total 6 integer solutions where found, whereas 3 where used by primal.
+
+Solution quality:
+Expected social welfare=6973.665730
+Absolute deviation=4484.450805
+Variance=20210925.981543
+Standard deviation=4495.656346
+Coefficient of variation=0.644662
+
+Distribution of constraint cuts:
+cons_cuts=[2, 4, 6, 8, 10, 12, 13, 15, 17, 19];
+Distribution of found integer solutions:
+int_sols=[2, 4, 10, 12, 13, 19];
+Distribution of found duplicates:
+int_dupl=[6, 8, 17, 15];
+
+Decomposition solution:
+Meaning of solution vector: [P     8 [k=4 v=0] gets set {5}, P    46 [k=4 v=0] gets set {20}, P    93 [k=4 v=0] gets set {12}, P   103 [k=4 v=0] gets set {27}, P   113 [k=4 v=0] gets set {29}, P   191 [k=4 v=0] gets set {2}, P   200 [k=4 v=0] gets set {35}, P   252 [k=4 v=0] gets set {2}, P   271 [k=4 v=0] gets set {61}, P   297 [k=4 v=0] gets set {9}, P   321 [k=4 v=0] gets set {33}, P   373 [k=4 v=0] gets set {29}, P   404 [k=4 v=0] gets set {15}, P   460 [k=4 v=0] gets set {1}, P   467 [k=4 v=0] gets set {62}, P   471 [k=4 v=0] gets set {48}, P   475 [k=4 v=0] gets set {14}, P   477 [k=4 v=0] gets set {11}, P   487 [k=4 v=0] gets set {48}, P   488 [k=4 v=0] gets set {23}, P   491 [k=4 v=0] gets set {33}, P   492 [k=4 v=0] gets set {4}, P   505 [k=4 v=0] gets set {80}, P   517 [k=4 v=0] gets set {24}, P   527 [k=4 v=0] gets set {9}, P   536 [k=4 v=0] gets set {41}, P   546 [k=4 v=0] gets set {8}, P   558 [k=4 v=0] gets set {14}, P   594 [k=4 v=0] gets set {45}, P   624 [k=4 v=0] gets set {7}, P   637 [k=4 v=0] gets set {3}, P   650 [k=4 v=0] gets set {1}, P   671 [k=4 v=0] gets set {13}, P   701 [k=4 v=0] gets set {2}, P   716 [k=4 v=0] gets set {1}, P   746 [k=4 v=0] gets set {59}, P   748 [k=4 v=0] gets set {2}, P   792 [k=4 v=0] gets set {37}, P   800 [k=4 v=0] gets set {12}, P   823 [k=4 v=0] gets set {17}, P   826 [k=4 v=0] gets set {42}, P   828 [k=4 v=0] gets set {33}, P   914 [k=4 v=0] gets set {17}, P   921 [k=4 v=0] gets set {55}, P   937 [k=4 v=0] gets set {17}]
+Probabilities and corresponding integer solution:
+lambda_3 = 0.387500 and welfare = 2247.494931 and x_l = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+lambda_4 = 0.500000 and welfare = 11458.116535 and x_l = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+lambda_5 = 0.112500 and welfare = 3321.806013 and x_l = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+lambda_else = 0
+Using 3 out of 6 integer solutions.
+Expected social welfare: 6973.665730
+Objective value of primal LP: 1.000000
+
+

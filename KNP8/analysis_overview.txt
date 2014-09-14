@@ -1,0 +1,11 @@
+Mechanism KNP8 with 750 players and 1000 subsets.
+Optimal social welfare: 13816.68024.
+Expected social welfare: 6908.34012.
+
+Gurobi LP dual solution (#6):
+P    30 [k=1 v=0] gets x(   13)=1.00000
+P    50 [k=1 v=0] gets x(   30)=1.00000
+P   480 [k=1 v=0] gets x(    3)=1.00000
+P   680 [k=3 v=1] gets x(  246)=0.19930 x(  818)=0.80070
+P   688 [k=3 v=1] gets x(  250)=1.00000
+Objective value / Optimal social welfare: 13816.680244

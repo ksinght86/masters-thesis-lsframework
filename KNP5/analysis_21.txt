@@ -1,0 +1,37 @@
+Analysis results no. 21
+
+Ellipsoid method stopped in iteration 22 because decomposition is feasible.
+Ellipsoid parameters: cut=central; eps=0.000000; N=1000; R=9.591663.
+Ellipsoid performance: runtime=22.156424 sec.; constraint-cuts=12.
+
+First iteration in which primal was feasible: 22.
+In total 6 integer solutions where found, whereas 5 where used by primal.
+
+Solution quality:
+Expected social welfare=9759.138879
+Absolute deviation=6269.197431
+Variance=44246038.936021
+Standard deviation=6651.769609
+Coefficient of variation=0.681594
+
+Distribution of constraint cuts:
+cons_cuts=[2, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 22];
+Distribution of found integer solutions:
+int_sols=[2, 3, 11, 19, 21, 22];
+Distribution of found duplicates:
+int_dupl=[5, 7, 9, 13, 15, 17];
+
+Decomposition solution:
+Meaning of solution vector: [P   267 [k=2 v=0] gets set {7}, P   345 [k=2 v=0] gets set {16}, P   352 [k=2 v=0] gets set {13}, P   405 [k=2 v=0] gets set {5}, P   757 [k=2 v=0] gets set {4}, P  1077 [k=2 v=0] gets set {21}, P  1302 [k=2 v=0] gets set {24}, P  1684 [k=2 v=0] gets set {17}, P  1716 [k=2 v=0] gets set {39}, P  1907 [k=2 v=0] gets set {1}, P  1992 [k=2 v=0] gets set {4}, P  2172 [k=2 v=0] gets set {12}, P  2176 [k=2 v=0] gets set {16}, P  2300 [k=2 v=0] gets set {23}, P  2340 [k=2 v=0] gets set {14}, P  2550 [k=2 v=0] gets set {29}, P  2552 [k=2 v=0] gets set {6}, P  2789 [k=2 v=0] gets set {13}, P  2831 [k=2 v=0] gets set {7}, P  2878 [k=2 v=0] gets set {5}, P  2903 [k=2 v=0] gets set {2}, P  2923 [k=2 v=0] gets set {12}, P  3055 [k=2 v=0] gets set {4}, P  3072 [k=2 v=0] gets set {2}, P  3166 [k=2 v=0] gets set {2}, P  3252 [k=2 v=0] gets set {4}, P  3319 [k=2 v=0] gets set {2}, P  3354 [k=2 v=0] gets set {10}, P  3440 [k=2 v=0] gets set {30}, P  3558 [k=2 v=0] gets set {1}, P  3662 [k=2 v=0] gets set {18}, P  3704 [k=2 v=0] gets set {12}, P  4249 [k=2 v=0] gets set {4}, P  4302 [k=2 v=0] gets set {16}, P  4399 [k=2 v=0] gets set {31}, P  4548 [k=2 v=0] gets set {32}, P  4587 [k=2 v=0] gets set {12}, P  4697 [k=2 v=0] gets set {12}, P  4706 [k=2 v=0] gets set {7}, P  4856 [k=2 v=0] gets set {11}, P  4877 [k=2 v=0] gets set {9}, P  4919 [k=2 v=0] gets set {16}, P  4934 [k=2 v=0] gets set {3}, P  4963 [k=2 v=0] gets set {8}, P  4987 [k=2 v=0] gets set {10}, P  5022 [k=2 v=0] gets set {14}, P  5064 [k=2 v=0] gets set {3}, P  5125 [k=2 v=0] gets set {15}, P  5136 [k=2 v=0] gets set {2}, P  5154 [k=2 v=0] gets set {19}, P  5200 [k=2 v=0] gets set {2}, P  5260 [k=2 v=0] gets set {20}, P  5627 [k=2 v=0] gets set {42}, P  5806 [k=2 v=0] gets set {4}, P  5883 [k=2 v=0] gets set {13}, P  6131 [k=2 v=0] gets set {11}, P  6191 [k=2 v=0] gets set {3}, P  6424 [k=2 v=0] gets set {12}, P  6426 [k=2 v=0] gets set {8}, P  6609 [k=2 v=0] gets set {2}, P  6715 [k=2 v=0] gets set {15}, P  6722 [k=2 v=0] gets set {10}, P  6844 [k=2 v=0] gets set {3}, P  6934 [k=2 v=0] gets set {8}, P  7128 [k=2 v=0] gets set {14}, P  7227 [k=2 v=0] gets set {3}, P  7623 [k=2 v=0] gets set {8}, P  7656 [k=2 v=0] gets set {3}, P  7752 [k=2 v=0] gets set {16}, P  7964 [k=2 v=0] gets set {9}, P  7983 [k=2 v=0] gets set {18}, P  8163 [k=2 v=0] gets set {7}, P  8212 [k=2 v=0] gets set {16}, P  8326 [k=2 v=0] gets set {3}, P  8648 [k=2 v=0] gets set {22}, P  8766 [k=2 v=0] gets set {7}, P  8770 [k=2 v=0] gets set {3}, P  8800 [k=2 v=0] gets set {8}, P  8873 [k=2 v=0] gets set {18}, P  8946 [k=2 v=0] gets set {4}, P  9026 [k=2 v=0] gets set {3}, P  9088 [k=2 v=0] gets set {7}, P  9104 [k=2 v=0] gets set {1}, P  9124 [k=2 v=0] gets set {13}, P  9184 [k=2 v=0] gets set {8}, P  9251 [k=2 v=0] gets set {6}, P  9399 [k=2 v=0] gets set {3}, P  9450 [k=2 v=0] gets set {6}, P  9537 [k=2 v=0] gets set {27}, P  9555 [k=2 v=0] gets set {7}, P  9989 [k=2 v=0] gets set {11}]
+Probabilities and corresponding integer solution:
+lambda_0 = 0.333333 and welfare = 14515.825610 and x_l = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+lambda_1 = 0.229167 and welfare = 165.087294 and x_l = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+lambda_3 = 0.104167 and welfare = 14297.186636 and x_l = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+lambda_4 = 0.229167 and welfare = 14455.821774 and x_l = [1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+lambda_5 = 0.104167 and welfare = 773.904694 and x_l = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1]
+lambda_else = 0
+Using 5 out of 6 integer solutions.
+Expected social welfare: 9759.138879
+Objective value of primal LP: 1.000000
+
+

@@ -1,0 +1,35 @@
+Analysis results no. 4
+
+Ellipsoid method stopped in iteration 9 because decomposition is feasible.
+Ellipsoid parameters: cut=shallow; eps=0.000000; N=1000; R=11.045361.
+Ellipsoid performance: runtime=15.475033 sec.; constraint-cuts=5.
+
+First iteration in which primal was feasible: 9.
+In total 3 integer solutions where found, whereas 3 where used by primal.
+
+Solution quality:
+Expected social welfare=7497.800681
+Absolute deviation=7228.288939
+Variance=52267999.723705
+Standard deviation=7229.661107
+Coefficient of variation=0.964238
+
+Distribution of constraint cuts:
+cons_cuts=[2, 3, 5, 7, 9];
+Distribution of found integer solutions:
+int_sols=[2, 3, 9];
+Distribution of found duplicates:
+int_dupl=[5, 7];
+
+Decomposition solution:
+Meaning of solution vector: [P    33 [k=4 v=0] gets set {9}, P   298 [k=4 v=0] gets set {1}, P   318 [k=4 v=0] gets set {3}, P   353 [k=4 v=0] gets set {17}, P   377 [k=4 v=0] gets set {13}, P   399 [k=4 v=0] gets set {8}, P   557 [k=4 v=0] gets set {2}, P   642 [k=4 v=0] gets set {4}, P   685 [k=4 v=0] gets set {19}, P   722 [k=4 v=0] gets set {10}, P   820 [k=4 v=0] gets set {9}, P   917 [k=4 v=0] gets set {6}, P   918 [k=4 v=0] gets set {8}, P  1002 [k=4 v=0] gets set {5}, P  1006 [k=4 v=0] gets set {15}, P  1094 [k=4 v=0] gets set {7}, P  1102 [k=4 v=0] gets set {3}, P  1121 [k=4 v=0] gets set {4}, P  1129 [k=4 v=0] gets set {10}, P  1168 [k=4 v=0] gets set {7}, P  1335 [k=4 v=0] gets set {5}, P  1498 [k=4 v=0] gets set {5}, P  1674 [k=4 v=0] gets set {9}, P  1765 [k=4 v=0] gets set {9}, P  1774 [k=4 v=0] gets set {10}, P  1948 [k=4 v=0] gets set {6}, P  1993 [k=4 v=0] gets set {3}, P  2001 [k=4 v=0] gets set {6}, P  2054 [k=4 v=0] gets set {23}, P  2057 [k=4 v=0] gets set {7}, P  2119 [k=4 v=0] gets set {7}, P  2198 [k=4 v=0] gets set {2}, P  2315 [k=4 v=0] gets set {6}, P  2367 [k=4 v=0] gets set {4}, P  2444 [k=4 v=0] gets set {9}, P  2623 [k=4 v=0] gets set {13}, P  2684 [k=4 v=0] gets set {2}, P  2763 [k=4 v=0] gets set {19}, P  2772 [k=4 v=0] gets set {2}, P  2842 [k=4 v=0] gets set {10}, P  2862 [k=4 v=0] gets set {3}, P  2895 [k=4 v=0] gets set {18}, P  2982 [k=4 v=0] gets set {8}, P  2989 [k=4 v=0] gets set {2}, P  2998 [k=4 v=0] gets set {6}, P  3026 [k=4 v=0] gets set {1}, P  3070 [k=4 v=0] gets set {1}, P  3132 [k=4 v=0] gets set {7}, P  3215 [k=4 v=0] gets set {30}, P  3217 [k=4 v=0] gets set {4}, P  3355 [k=4 v=0] gets set {6}, P  3371 [k=4 v=0] gets set {1}, P  3449 [k=4 v=0] gets set {16}, P  3572 [k=4 v=0] gets set {7}, P  3620 [k=4 v=0] gets set {4}, P  4017 [k=4 v=0] gets set {16}, P  4036 [k=4 v=0] gets set {13}, P  4074 [k=4 v=0] gets set {2}, P  4265 [k=4 v=0] gets set {19}, P  4296 [k=4 v=0] gets set {4}, P  4356 [k=4 v=0] gets set {1}, P  4496 [k=4 v=0] gets set {22}, P  4498 [k=4 v=0] gets set {11}, P  4609 [k=4 v=0] gets set {3}, P  4618 [k=4 v=0] gets set {5}, P  4725 [k=4 v=0] gets set {14}, P  4761 [k=4 v=0] gets set {1}, P  4836 [k=4 v=0] gets set {1}, P  4903 [k=4 v=0] gets set {6}, P  5202 [k=4 v=0] gets set {1}, P  5216 [k=4 v=0] gets set {26}, P  5279 [k=4 v=0] gets set {16}, P  5291 [k=4 v=0] gets set {15}, P  5375 [k=4 v=0] gets set {20}, P  5589 [k=4 v=0] gets set {5}, P  5590 [k=4 v=0] gets set {15}, P  5706 [k=4 v=0] gets set {14}, P  5732 [k=4 v=0] gets set {7}, P  5813 [k=4 v=0] gets set {12}, P  5889 [k=4 v=0] gets set {2}, P  6094 [k=4 v=0] gets set {11}, P  6185 [k=4 v=0] gets set {1}, P  6479 [k=4 v=0] gets set {7}, P  6676 [k=4 v=0] gets set {17}, P  6911 [k=4 v=0] gets set {1}, P  6921 [k=4 v=0] gets set {3}, P  6994 [k=4 v=0] gets set {9}, P  7031 [k=4 v=0] gets set {9}, P  7046 [k=4 v=0] gets set {25}, P  7144 [k=4 v=0] gets set {4}, P  7211 [k=4 v=0] gets set {8}, P  7300 [k=4 v=0] gets set {14}, P  7438 [k=4 v=0] gets set {4}, P  7664 [k=4 v=0] gets set {17}, P  7852 [k=4 v=0] gets set {1}, P  7880 [k=4 v=0] gets set {3}, P  8055 [k=4 v=0] gets set {1}, P  8088 [k=4 v=0] gets set {12}, P  8380 [k=4 v=0] gets set {2}, P  8395 [k=4 v=0] gets set {1}, P  8405 [k=4 v=0] gets set {2}, P  8407 [k=4 v=0] gets set {21}, P  8414 [k=4 v=0] gets set {4}, P  8472 [k=4 v=0] gets set {7}, P  8531 [k=4 v=0] gets set {19}, P  8571 [k=4 v=0] gets set {6}, P  8611 [k=4 v=0] gets set {7}, P  8914 [k=4 v=0] gets set {4}, P  8949 [k=4 v=0] gets set {8}, P  8978 [k=4 v=0] gets set {15}, P  8993 [k=4 v=0] gets set {5}, P  9091 [k=4 v=0] gets set {3}, P  9138 [k=4 v=0] gets set {1}, P  9155 [k=4 v=0] gets set {1}, P  9190 [k=4 v=0] gets set {6}, P  9355 [k=4 v=0] gets set {1}, P  9461 [k=4 v=0] gets set {5}, P  9645 [k=4 v=0] gets set {14}, P  9673 [k=4 v=0] gets set {17}, P  9780 [k=4 v=0] gets set {13}, P  9803 [k=4 v=0] gets set {18}]
+Probabilities and corresponding integer solution:
+lambda_0 = 0.350000 and welfare = 14856.491438 and x_l = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+lambda_1 = 0.500000 and welfare = 269.511742 and x_l = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+lambda_2 = 0.150000 and welfare = 14421.818709 and x_l = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+lambda_else = 0
+Using 3 out of 3 integer solutions.
+Expected social welfare: 7497.800681
+Objective value of primal LP: 1.000000
+
+

@@ -1,0 +1,38 @@
+Analysis results no. 15
+
+Ellipsoid method stopped in iteration 76 because decomposition is feasible.
+Ellipsoid parameters: cut=central; eps=0.000000; N=1000; R=6.782330.
+Ellipsoid performance: runtime=20.255712 sec.; constraint-cuts=42.
+
+First iteration in which primal was feasible: 76.
+In total 18 integer solutions where found, whereas 6 where used by primal.
+
+Solution quality:
+Expected social welfare=6973.665730
+Absolute deviation=5634.463188
+Variance=32381620.968885
+Standard deviation=5690.485126
+Coefficient of variation=0.815996
+
+Distribution of constraint cuts:
+cons_cuts=[4, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 48, 50, 52, 53, 55, 56, 58, 60, 61, 63, 64, 66, 67, 68, 70, 72, 73, 75, 76];
+Distribution of found integer solutions:
+int_sols=[4, 5, 9, 27, 43, 48, 50, 53, 56, 61, 63, 66, 67, 68, 70, 72, 73, 76];
+Distribution of found duplicates:
+int_dupl=[19, 7, 11, 13, 15, 17, 21, 23, 25, 29, 31, 33, 37, 39, 41, 45, 47, 35, 52, 55, 60, 64, 58, 75];
+
+Decomposition solution:
+Meaning of solution vector: [P     8 [k=4 v=0] gets set {5}, P    46 [k=4 v=0] gets set {20}, P    93 [k=4 v=0] gets set {12}, P   103 [k=4 v=0] gets set {27}, P   113 [k=4 v=0] gets set {29}, P   191 [k=4 v=0] gets set {2}, P   200 [k=4 v=0] gets set {35}, P   252 [k=4 v=0] gets set {2}, P   271 [k=4 v=0] gets set {61}, P   297 [k=4 v=0] gets set {9}, P   321 [k=4 v=0] gets set {33}, P   373 [k=4 v=0] gets set {29}, P   404 [k=4 v=0] gets set {15}, P   460 [k=4 v=0] gets set {1}, P   467 [k=4 v=0] gets set {62}, P   471 [k=4 v=0] gets set {48}, P   475 [k=4 v=0] gets set {14}, P   477 [k=4 v=0] gets set {11}, P   487 [k=4 v=0] gets set {48}, P   488 [k=4 v=0] gets set {23}, P   491 [k=4 v=0] gets set {33}, P   492 [k=4 v=0] gets set {4}, P   505 [k=4 v=0] gets set {80}, P   517 [k=4 v=0] gets set {24}, P   527 [k=4 v=0] gets set {9}, P   536 [k=4 v=0] gets set {41}, P   546 [k=4 v=0] gets set {8}, P   558 [k=4 v=0] gets set {14}, P   594 [k=4 v=0] gets set {45}, P   624 [k=4 v=0] gets set {7}, P   637 [k=4 v=0] gets set {3}, P   650 [k=4 v=0] gets set {1}, P   671 [k=4 v=0] gets set {13}, P   701 [k=4 v=0] gets set {2}, P   716 [k=4 v=0] gets set {1}, P   746 [k=4 v=0] gets set {59}, P   748 [k=4 v=0] gets set {2}, P   792 [k=4 v=0] gets set {37}, P   800 [k=4 v=0] gets set {12}, P   823 [k=4 v=0] gets set {17}, P   826 [k=4 v=0] gets set {42}, P   828 [k=4 v=0] gets set {33}, P   914 [k=4 v=0] gets set {17}, P   921 [k=4 v=0] gets set {55}, P   937 [k=4 v=0] gets set {17}]
+Probabilities and corresponding integer solution:
+lambda_7 = 0.137500 and welfare = 13472.310469 and x_l = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+lambda_9 = 0.137500 and welfare = 11260.507380 and x_l = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1]
+lambda_10 = 0.112500 and welfare = 13345.268375 and x_l = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0]
+lambda_11 = 0.112500 and welfare = 12461.860555 and x_l = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1]
+lambda_12 = 0.250000 and welfare = 2000.279195 and x_l = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 0]
+lambda_17 = 0.250000 and welfare = 678.125888 and x_l = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]
+lambda_else = 0
+Using 6 out of 18 integer solutions.
+Expected social welfare: 6973.665730
+Objective value of primal LP: 1.000000
+
+

@@ -1,0 +1,20 @@
+Mechanism KNP1 with 1000 players and 100 subsets.
+Optimal social welfare: 1299.88892.
+Expected social welfare: 649.94446.
+
+Gurobi LP dual solution (#14):
+P    17 [k=1 v=0] gets x(    5)=1.00000
+P    63 [k=1 v=0] gets x(   18)=0.77778
+P   181 [k=1 v=0] gets x(    2)=1.00000
+P   240 [k=1 v=0] gets x(   11)=1.00000
+P   248 [k=1 v=0] gets x(    8)=1.00000
+P   317 [k=1 v=0] gets x(   11)=1.00000
+P   516 [k=1 v=0] gets x(    3)=1.00000
+P   517 [k=1 v=0] gets x(    6)=1.00000
+P   538 [k=1 v=0] gets x(   12)=1.00000
+P   581 [k=1 v=0] gets x(    4)=1.00000
+P   586 [k=1 v=0] gets x(    2)=1.00000
+P   657 [k=1 v=0] gets x(    5)=1.00000
+P   878 [k=1 v=0] gets x(    1)=1.00000
+P   909 [k=1 v=0] gets x(   16)=1.00000
+Objective value / Optimal social welfare: 1299.888920

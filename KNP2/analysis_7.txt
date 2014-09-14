@@ -1,0 +1,35 @@
+Analysis results no. 7
+
+Ellipsoid method stopped in iteration 18 because decomposition is feasible.
+Ellipsoid parameters: cut=deep; eps=0.000000; N=1000; R=4.472136.
+Ellipsoid performance: runtime=0.828949 sec.; constraint-cuts=10.
+
+First iteration in which primal was feasible: 18.
+In total 3 integer solutions where found, whereas 3 where used by primal.
+
+Solution quality:
+Expected social welfare=6564.435172
+Absolute deviation=5253.539672
+Variance=28150249.483955
+Standard deviation=5305.680869
+Coefficient of variation=0.808246
+
+Distribution of constraint cuts:
+cons_cuts=[2, 4, 6, 7, 9, 11, 13, 14, 16, 18];
+Distribution of found integer solutions:
+int_sols=[2, 6, 18];
+Distribution of found duplicates:
+int_dupl=[4, 7, 9, 11, 14, 16, 13];
+
+Decomposition solution:
+Meaning of solution vector: [P   113 [k=1 v=0] gets set {12}, P   120 [k=1 v=0] gets set {51}, P   146 [k=1 v=0] gets set {10}, P   225 [k=1 v=0] gets set {24}, P   229 [k=1 v=0] gets set {38}, P   347 [k=1 v=0] gets set {34}, P   384 [k=1 v=0] gets set {85}, P   464 [k=1 v=0] gets set {97}, P   478 [k=1 v=0] gets set {2}, P   639 [k=1 v=0] gets set {34}, P   684 [k=1 v=0] gets set {57}, P   696 [k=1 v=0] gets set {60}, P   699 [k=1 v=0] gets set {82}, P   755 [k=1 v=0] gets set {19}, P   760 [k=1 v=0] gets set {59}, P   816 [k=1 v=0] gets set {78}, P   901 [k=1 v=0] gets set {94}, P   922 [k=1 v=0] gets set {61}, P   989 [k=1 v=0] gets set {169}]
+Probabilities and corresponding integer solution:
+lambda_0 = 0.500000 and welfare = 11817.974844 and x_l = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+lambda_1 = 0.304734 and welfare = 2150.886792 and x_l = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+lambda_2 = 0.195266 and welfare = 0.000000 and x_l = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+lambda_else = 0
+Using 3 out of 3 integer solutions.
+Expected social welfare: 6564.435172
+Objective value of primal LP: 1.000000
+
+
